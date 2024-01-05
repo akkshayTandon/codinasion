@@ -9,7 +9,7 @@ An arithmetic progression (AP) is a sequence of numbers such that the difference
 
 ```txt
 Input  : 2, 5, 3
-Output : 20
+Output : 40
 ```
 
 ---
